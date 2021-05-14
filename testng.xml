@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="3" parallel="tests">
+    <listeners>
+        <listener class-name="util.RetryListener"></listener>
+        <listener class-name="util.ExtentTestNGIReporterListener1"></listener>
+    </listeners>
+    <test verbose="1" name="TestName">
+        <classes>
+            <class name=""></class>
+        </classes>
+    </test>
+</suite>

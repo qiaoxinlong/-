@@ -1,0 +1,24 @@
+{
+  "appId": 1,
+  "brandId": 1,
+  "brandName": "张小泉",
+  "categoryCid": 3,
+  "categoryName": "刀具",
+  "content": "这个商品好",
+  "goodsId": 123123123,
+  "goodsState": 0,
+  "imgInfo": [{
+    "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/48072/22/13693/290257/5da5187bE9e4697c6/e45559b12db74b71.jpg",
+    "isPoster": 0
+  },
+    {
+      "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/48072/22/13693/290257/5da5187bE9e4697c6/e45559b12db74b71.jpg",
+      "isPoster": 1
+    }
+  ],
+  "price": "200",
+  "thirdGoodsId": "1110663",
+  "thirdGoodsName": "张小泉菜刀八件套",
+  "thirdGoodsUrl": "https://item.jd.com/1110663.html",
+  "userId": "2222"
+}

@@ -1,0 +1,33 @@
+.classpath
+.project
+
+.settings/
+qa-paas-metadata-new/.idea/
+target/
+
+*.iml
+out
+gen
+
+rebel.xml
+
+### Java template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.gz
+*.zip
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.DS_Store
+node_modules/
+npm-debug.log
+.editorconfig
